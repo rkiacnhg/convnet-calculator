@@ -1,7 +1,7 @@
 # ConvNet Calculator
 
-Calculates output shape of convolutional layers based on input shape, stride, kernel size, etc.
-
 [Site here](https://rkiacnhg.github.io/convnet-calculator/)
 
-Made while reviewing the [CS231n notes](http://cs231n.github.io/convolutional-networks/).
+Added functionality that accounts for dilation size, on top of the original implementation.
+
+Sources: [Starter Code from Here](https://github.com/madebyollin/convnet-calculator)
