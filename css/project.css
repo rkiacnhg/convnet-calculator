@@ -349,6 +349,11 @@ label input {
   content: "Output After Convolution";
 }
 
+#pic {
+  text-align: center;
+  padding-top: 8em;
+}
+
 #credits {
   text-align: center;
   padding-top: 4em;
