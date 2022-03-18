@@ -382,6 +382,11 @@ em * {
   color: #00bcd4;
 }
 
+.d em,
+.d input{
+  color: #DD2700;
+}
+
 #shapes .w1 em::before {
   content: "Width";
 }
@@ -400,5 +405,7 @@ em * {
 #shapes .k em::before {
   content: "Channels";
 }
-
+#shapes .d em::before {
+  content: "Dilation";
+}
 /*# sourceMappingURL=project.css.map */
