@@ -54,7 +54,7 @@ h2 {
   font-weight: 600;
 }
 
-h3 {
+h3 { 
   font-size: 1.1em;
   text-align: left;
   margin-bottom: 16px;
@@ -75,6 +75,8 @@ h5 {
   width: 100%;
   display: block;
   padding: 1em;
+  margin-top: 16px;
+  margin-bottom: 8px;
   text-align: center;
   font-size: 4em;
   font-weight: 100;
