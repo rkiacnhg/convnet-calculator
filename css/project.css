@@ -72,12 +72,12 @@ h4 {
   font-weight: 600;
 }
 h5 {
-  font-size: 1em;
-  text-align: left;
-  margin-top: 16px;
-  margin-bottom: 8px;
-  padding-top: 8px;
-  font-weight: 600;
+  width: 100%;
+  display: block;
+  padding: 1em;
+  text-align: center;
+  font-size: 4em;
+  font-weight: 100;
 }
 
 hr {
