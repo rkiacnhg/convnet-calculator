@@ -287,6 +287,8 @@ label input {
   display:flex;
   align-items:center;
   height:192px;
+  margin-left: 1.2em;
+      margin-top: 6em;
   min-width: 512px;
 /*   top: 2em; */
 }
@@ -311,7 +313,7 @@ label input {
   height: 100%;
   width: 192px;
   height: 192px;
-/*   position: relative; */
+  position: relative;
 
 }
 #shapes #input span,
@@ -352,7 +354,7 @@ label input {
 #pic {
   display:flex;
   text-align: center;
-  padding-top: 8em;
+  padding-top: 4em;
 }
 
 #credits {
