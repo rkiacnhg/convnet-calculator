@@ -283,14 +283,14 @@ label input {
 }
 
 #shapes {
-/*   position: relative; */
+
   display:flex;
   align-items:center;
   height:192px;
   margin-left: 1.2em;
   margin-top: 6em;
   min-width: 512px;
-/*   top: 2em; */
+
 }
 #shapes #arrow {
   font-size: 1.5rem;
@@ -300,8 +300,7 @@ label input {
   text-align: center;
   user-select: none;
   top: 96px;
-/*   width: 100%; */
-/*   position: absolute; */
+
 }
 #shapes #input,
 #shapes #output {
@@ -314,6 +313,7 @@ label input {
   width: 192px;
   height: 192px;
   position: relative;
+  padding-top: 69px;
 
 }
 #shapes #input span,
