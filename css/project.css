@@ -285,8 +285,10 @@ label input {
 #shapes {
 /*   position: relative; */
   display:flex;
+  align-items:center;
+  height:192px;
   min-width: 512px;
-  top: 2em;
+/*   top: 2em; */
 }
 #shapes #arrow {
   font-size: 1.5rem;
